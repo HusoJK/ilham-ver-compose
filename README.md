@@ -22,8 +22,10 @@ Jetpack Compose eğitiminde pekiştirme amacıyla geliştirilen mini bir uygulam
 
 ## Ekran Görüntüsü
 
-<img width="530" height="1168" alt="image" src="https://github.com/user-attachments/assets/dfb549ed-c326-48d8-b55e-7d7b9b6d255d" />
-<img width="536" height="1176" alt="image" src="https://github.com/user-attachments/assets/8dac3174-9a97-49fd-be45-505ab007afce" />
-<img width="534" height="1166" alt="image" src="https://github.com/user-attachments/assets/7bfb874e-8590-4f2e-b744-061cb32f627c" />
-<img width="526" height="1170" alt="image" src="https://github.com/user-attachments/assets/9227d147-73be-49d1-8465-1688d70b1b04" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfb549ed-c326-48d8-b55e-7d7b9b6d255d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8dac3174-9a97-49fd-be45-505ab007afce" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7bfb874e-8590-4f2e-b744-061cb32f627c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9227d147-73be-49d1-8465-1688d70b1b04" width="200"/>
+</p>
 
